@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class War extends Format {
+public class War extends Game {
 
    WarPlayer one, two;
    

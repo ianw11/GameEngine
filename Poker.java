@@ -1,4 +1,4 @@
-public class Poker extends Format {
+public class Poker extends Game {
 
    PokerPlayer one;
 
